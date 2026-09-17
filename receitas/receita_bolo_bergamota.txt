@@ -46,7 +46,6 @@ Bolo de mexerica com casca
 Receita de Bolo de bergamota muito fofinho - Passo 10
 Se você gostou da receita de Bolo de bergamota muito fofinho, sugerimos que entre na nossa categoria de Receitas de bolos simples.
 
-=======
 Ingredientes:
  2 bergamotas grandes
  1 xícara de óleo (240 mililitros)
@@ -62,4 +61,3 @@ Valor nutricional (por pessoa)
  Gorduras: 19 g
  Carboidratos: 40,5 g
  Fibra: 1,3 g
->>>>>>> origin/feat/jose
